@@ -1,4 +1,4 @@
-name: CI/CD Pipeline dev 03/09/2025
+name: CI/CD Pipeline dev 04/09/2025
 
 on:
   push:
